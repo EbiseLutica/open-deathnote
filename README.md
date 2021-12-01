@@ -1,4 +1,4 @@
-# オープンソースデスノート
+# [オープンソースデスノート](https://xeltica.github.io/open-deathnote/)
 
 GitHubで管理するオープンソースのデスノートです。
 
